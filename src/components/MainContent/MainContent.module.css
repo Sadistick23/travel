@@ -1,0 +1,32 @@
+.main__page {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.register_travel {
+    display: block;
+}
+.main_image {
+    object-fit: cover;
+    width: 599px;
+    height: 542px;
+}
+.main_text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 80px;
+}
+.main_text_down {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+}
+.hr {
+    margin: 0;
+    width: 32px;
+    background: black;
+    border: 1px solid black;
+}

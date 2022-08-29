@@ -1,0 +1,30 @@
+.five__content {
+    margin-top: 200px;
+}
+.five__content_header {
+
+}
+.header_title {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    color: #000000;
+}
+.header_viewAll {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+    color: #FB8F1D;
+}
+.posts {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 130px;
+}

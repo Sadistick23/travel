@@ -1,0 +1,51 @@
+.four__content {
+    margin-top: 180px;
+}
+.four__content_name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    color: #000000;
+}
+.four__content_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.star img {
+    padding-right: 10px;
+}
+.content__description {
+    margin: 30px 200px 40px 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+}
+.author {
+
+}
+.author__name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 48px;
+    color: #000000;
+}
+.author_description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.author__image {
+    object-fit: cover;
+    width: 384px;
+    height: 491px;
+    border-radius: 8px;
+}

@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+.header {
+    margin: 15px 170px;
+}
+.wrapper {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.logo {
+
+}
+.logo_img {
+    width: 41px;
+    height: 41px;
+}

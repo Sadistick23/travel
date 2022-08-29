@@ -1,0 +1,31 @@
+.third__content {
+    margin-top: 180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.third__content_info {
+    margin: 30px 0 30px 0;
+    padding: 0 130px 0 0;
+}
+.third__content_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    color: #000000;
+}
+.third__content_description {
+    padding: 20px 0 33px 0;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+    color: #7D7987;
+}
+.third__image {
+    object-fit: cover;
+    width: 599px;
+    height: 542px;
+}

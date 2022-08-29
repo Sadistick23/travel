@@ -1,0 +1,47 @@
+.app {
+    margin: 0 170px;
+}
+.wrapper {
+    display: flex;
+    margin: 30px 0 50px 0;
+}
+.back {
+    display: flex;
+}
+.back_text {
+    font-size: 18px;
+    margin: 19px 0 0 10px;
+    color: black;
+}
+.img {
+    border-radius: 8px;
+    width: 270px;
+    height: 340px;
+    background: #dcdcdc;
+}
+.info_scenery {
+    margin: 0 10px 10px 30px;
+}
+.info_name {
+    font-weight: 600;
+    font-size: 30px;
+}
+.info_description {
+    margin: 10px 0;
+    font-size: 22px;
+}
+.info_text {
+    font-size: 18px;
+}
+.img_btn {
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+

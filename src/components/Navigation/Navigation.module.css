@@ -1,0 +1,25 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.ul {
+    display: flex;
+    list-style: none;
+}
+.li {
+    color: #B8BECD;
+    text-align: center;
+    margin: 6px 17px;
+}
+.li:hover {
+    color: #5670b7;
+}
+.active {
+    color: #000;
+    margin: 6px 17px;
+}
+.active a{
+    color: #000;
+}

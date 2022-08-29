@@ -1,0 +1,36 @@
+.featured__pattern {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    column-gap: 45px;
+    row-gap: 20px;
+}
+.pattern {
+
+}
+.featured__pattern_image {
+    object-fit: cover;
+    width: 261px;
+    height: 332px;
+    background: #C4C4C4;
+    border-radius: 8px;
+}
+.featured__pattern_text {
+    position: absolute;
+    z-index: 1;
+    color: black;
+    border: 2px white solid;
+    border-radius: 0px 8px 0px 0px;
+    background: white;
+    padding: 20px 20px 0 0;
+    margin-top: 265px;
+}
+.text__main {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 25px;
+    color: #042521;
+}
+.text__description {
+    color: #7D7987;
+}
